@@ -14,7 +14,7 @@ export default function RootLayout({
         <title>TON Connect Demo</title>
       </head>
       <body>
-        <TonConnectUIProvider manifestUrl="https://violet-traditional-rabbit-103.mypinata.cloud/ipfs/QmQJJAdZ2qSwdepvb5evJq7soEBueFenHLX3PoM6tiBffm">
+        <TonConnectUIProvider manifestUrl="https://blush-official-ptarmigan-737.mypinata.cloud/ipfs/QmYA4oqsDhmZ5RzFVBF6LGMFLSS4VfwhA9fpYjr1HQLYy8">
           {children}
         </TonConnectUIProvider>
       </body>
